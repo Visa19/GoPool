@@ -1,0 +1,1023 @@
+Array
+(
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
+Array
+(
+    [ride_id] => 15
+    [update_location] => false
+)
